@@ -8,8 +8,14 @@ This is only a small wrapper for MacOS devices, that have Slack installed.
 
 * Pull the repo
 * Change into the directory
-* Make the shell script executable (chmod +x run.sh)
-* Run the shell script (./run.sh)
+* Make the shell script executable: 
+```sh
+chmod +x run.sh
+```
+* Run the shell script:
+```sh
+./run.sh
+```
 * Follow the instructions from the terminal
 
 ## Contributing
