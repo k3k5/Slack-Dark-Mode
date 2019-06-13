@@ -18,5 +18,5 @@ This is only a small wrapper for MacOS devices, that have Slack installed.
 * Feel free to fork the repo and / or open an issue.
 * When you are done with development, create a pull request.
 
-# LICENCE
+## Licence
 The whole code (including the connected stylesheet) has originally been posted at [Medium](https://medium.com/@nahuelhds/setup-dark-mode-in-slack-on-macos-mojave-4da1cc089a94).
