@@ -1,0 +1,11 @@
+echo "* You chose the dark mode for Slack *"
+echo " ** Origin: https://medium.com/@nahuelhds/setup-dark-mode-in-slack-on-macos-mojave-4da1cc089a94 **"
+echo "* Please wait for the script to finish *"
+echo "* Adjusting Styles *"
+echo " ** Adding the new stylescript to Slack **"
+cat append.js >> /Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static/ssb-interop.js
+echo " ** Stylescript added **"
+echo "* Please go to Slack and open your Preferences (Preferences / Sidebar) *"
+echo " ** Choose 'Gestalte dein individuelles Design und teile es mit anderen' **"
+echo " ** Paste this custom theme: '#171717,#404245,#424242,#ECF0F1,#4A4A4A,#FAFAFA,#2ECC71,#00A362' **"
+echo "* Please restart Slack and you will have dark mode enabled *"
