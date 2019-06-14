@@ -20,8 +20,8 @@ chmod +x run.sh
 sudo ./run.sh
 ```
 * Go to Preferences > Sidebar
-** At the end of that page, choose to set a custom color
-** Paste this color set: `#171717,#404245,#424242,#ECF0F1,#4A4A4A,#FAFAFA,#2ECC71,#00A362`
+  * At the end of that page, choose to set a custom color
+  * Paste this color set: `#171717,#404245,#424242,#ECF0F1,#4A4A4A,#FAFAFA,#2ECC71,#00A362`
 
 ## Contributing
 
