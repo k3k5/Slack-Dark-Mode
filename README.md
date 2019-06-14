@@ -2,7 +2,7 @@
 
 ## Explaination
 
-This is only a small wrapper for MacOS devices, that have Slack installed.
+This is only a small wrapper for installing a dark mode in Slack.
 
 ## Getting started
 
