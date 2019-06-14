@@ -6,7 +6,11 @@ This is only a small wrapper for MacOS devices, that have Slack installed.
 
 ## Getting started
 
-* Change into the directory
+* Create a new directory, e.g. in the home directory and change to it
+```sh
+mkdir ~/Slack-Dark-Mode
+cd ~/Slack-Dark-Mode
+```
 * Clone the repo into the current directory
 ```sh
 git clone git@github.com:k3k5/Slack-Dark-Mode.git .
