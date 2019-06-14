@@ -6,17 +6,22 @@ This is only a small wrapper for MacOS devices, that have Slack installed.
 
 ## Getting started
 
-* Pull the repo
 * Change into the directory
+* Clone the repo into the current directory
+```sh
+git clone git@github.com:k3k5/Slack-Dark-Mode.git .
+```
 * Make the shell script executable: 
 ```sh
 chmod +x run.sh
 ```
-* Run the shell script:
+* Run the shell script as sudo:
 ```sh
-./run.sh
+sudo ./run.sh
 ```
-* Follow the instructions from the terminal
+* Go to Preferences > Sidebar
+** At the end of that page, choose to set a custom color
+** Paste this color set: `#171717,#404245,#424242,#ECF0F1,#4A4A4A,#FAFAFA,#2ECC71,#00A362`
 
 ## Contributing
 
